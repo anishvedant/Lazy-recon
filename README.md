@@ -57,6 +57,18 @@ domain.com/
 ```
 
 ---
+## Screenshots
+
+Here is the tool in action during a scan:
+
+**1. Real-Time Dashboard**
+The script features a live dashboard that updates every second. It calculates a smart ETA based on the number of subdomains found and shows the current status of every background tool.
+![Live dashboard showing the countdown timer and tool progress](Img)
+
+**2. Clean Completion**
+Once all tasks are finished, the script automatically cleans up temporary files, fixes folder permissions (so you don't need `sudo` to browse them), and generates a final summary report.
+![Script completion screen showing the final status and output directory](Img%202.jpg)
+
 
 ## Requirements
 
