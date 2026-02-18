@@ -198,7 +198,7 @@ If any of them are missing, it's probably a PATH issue. Go back to step 1 and ma
 
 ```bash
 # clone the repo
-git clone https://github.com/anishvedant/recon.sh.git
+git clone [https://github.com/anishvedant/recon.sh.git](https://github.com/anishvedant/Lazy-recon.git)
 cd recon.sh
 
 # make it executable
